@@ -3,6 +3,8 @@
 👋 Hi, I’m Yantao Liu — currently a **Senior Algorithm Engineer** at **Qwen**.  
 My work focuses on **Reward Modeling** and **Reinforcement Learning training** of LLMs.
 
+👉 For my full list of publications, please refer to my [Google Scholar profile](https://scholar.google.com/citations?user=CKieAy4AAAAJ&hl=en&oi=sra).
+
 ## 🚀 Favorite Projects
 - [**RM-Bench**](https://arxiv.org/abs/2410.16184) — A benchmark that tests reward models on subtle content differences and style bias resistance to better align language models.
 - [**PairJudge-RM**](https://arxiv.org/html/2501.13007v2) — A pairwise reward model using knockout tournaments to improve Best-of-N sampling for LLMs.
