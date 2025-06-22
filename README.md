@@ -1,16 +1,24 @@
-## Hi there 👋
+# Yantao Liu
 
-<!--
-**RicardoL1u/RicardoL1u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I’m Yantao Liu — currently a **Senior Algorithm Engineer** at **Qwen**.  
+My work focuses on **Reward Modeling** and **Reinforcement Learning training** of LLMs.
 
-Here are some ideas to get you started:
+## 🚀 Favorite Projects
+- [**RM-Bench**](https://arxiv.org/abs/2410.16184) — A benchmark that tests reward models on subtle content differences and style bias resistance to better align language models.
+- [**PairJudge-RM**](https://arxiv.org/html/2501.13007v2) — A pairwise reward model using knockout tournaments to improve Best-of-N sampling for LLMs.
+- [**HelpSteer3**](https://huggingface.co/datasets/nvidia/HelpSteer3) — An open-source dataset for training models to generate more helpful responses to user prompts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you’re interested in **reward modeling** or any of my projects, feel free to [email me personal email](mailto:ricardoliu@outlook.com)!
+
+## 🎓 Education
+- **M.S. Student**  
+  [University of the Chinese Academy of Sciences](https://www.ucas.ac.cn/)  
+  *2022 – 2025*
+  
+- **B.S. Student**  
+  [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/)  
+  *2018 – 2022*
+
+---
+
+Thanks for visiting my page!
