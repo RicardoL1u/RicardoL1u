@@ -6,6 +6,8 @@ Before graduation, I was a research intern in [**Z.AI**](https://z.ai/) and [**T
 
 👉 For my full list of publications, please refer to my [Google Scholar profile](https://scholar.google.com/citations?user=CKieAy4AAAAJ&hl=en&oi=sra).
 
+> At Qwen, We are always looking forward to talented intern/researchers/engineers to join us! If you are interested (especially in reward modeling or RLHF), please feel free to [reach out to me](mailto:jiawei.lyt@alibaba-inc.com).
+
 ## 🚀 Selected Publication
 - [**RM-Bench**](https://arxiv.org/abs/2410.16184) — A benchmark that tests reward models on subtle content differences and style bias resistance to better align language models.
 - [**PairJudge-RM**](https://arxiv.org/html/2501.13007v2) — A pairwise reward model using knockout tournaments to improve Best-of-N sampling for LLMs.
